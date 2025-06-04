@@ -1,0 +1,1 @@
+Exanple given is bad, it will destroy the board, use Motor Driver (L293D) and battery to prevent this!
